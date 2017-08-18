@@ -9,6 +9,7 @@
 * Open http://localhost:8080/h2 in browser and login.
 * Run select * from doc_meta_data
 * The meta fields in the sample.html would have been inserted in the h2 db table.
+* Go to <your_windows_dir>\dest. sample.html would have been copied to this folder.
 
 Automated Testing for DB
 -----------------------
